@@ -8,7 +8,7 @@ No|Cheatsheet
 4|Docker Compose
 5|Git
 6|Kubernetes
-7|[Linux](https://github.com/phucbone/Cheatsheets/blob/main/libs/LinuxCheatSheet.md)
+7|[Linux](https://phucbone.github.io/LinuxCheatSheet/)
 8|Markdown
 9|Minikube
 10|MongoDB

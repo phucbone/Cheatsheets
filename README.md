@@ -10,9 +10,9 @@ No|Cheatsheet
 6|[Kubernetes](https://phucbone.github.io/KubernetesCheatsheet/)
 7|[Linux](https://phucbone.github.io/LinuxCheatSheet/)
 8|Markdown
-9|Minikube
-10|MongoDB
-11|NPM
+9|[Minikube](https://phucbone.github.io/MinikubeCheatsheet/)
+10|[MongoDB](https://phucbone.github.io/MongoDBCheatsheet/)
+11|[Npm](https://phucbone.github.io/NpmCheatsheet/)
 12|Proxmox
 13|Tensorflow
 14|Terminal Escape Code

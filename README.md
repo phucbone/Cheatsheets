@@ -1,7 +1,7 @@
 # This is phucbone's cheatsheet
 
 No|Cheatsheet
----|---
+:---:|---
 1|[Ansible](https://phucbone.github.io/AnsibleCheatsheet/)
 2|ASCII Code
 3|[Docker](https://phucbone.github.io/DockerCheatsheet/)
